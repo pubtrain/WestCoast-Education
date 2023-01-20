@@ -1,0 +1,82 @@
+{
+  "courses": [
+    {
+      "id": "60bf294e-6a6c-4ea1-93f8-a8d758fbfa1e",
+      "title": "Harry Potter-kunskap",
+      "length": "1 år",
+      "description": "Här lär du dig att kasta trollformler, äta chokladgrodor, laga spruckna glasögon, skicka ugglepost, och mycket, mycket mer.",
+      "startingDate": "13/6 -2023"
+    },
+    {
+      "id": "60bf294e-6a6c-4ea1-93f78-a8d758fbfa1e",
+      "title": "Star Wars-kunskap",
+      "length": "2 år",
+      "description": "Efter denna kurs så kommer du bland annat att vara proffs på att blockera laserskott med ditt lasersvärd, rabbla upp alla jedis i världshistorien och lyfta planeter med tankekraft.",
+      "startingDate": "19/8 -2023"
+    },
+    {
+      "id": "60bf294e-6a6c-4ea1-93f8-a8d7528fbfa1e",
+      "title": "Formel 1-utvecklare",
+      "length": "4 år",
+      "description": "Verkstaden är ditt vardagsrum. Denna kurs lär dig att bygga formel 1-bilar från grunden med hjälp av material som du själv kan plocka ute i naturen. Du kommer även att bli en bättre förare än vad Michael Schumacher någonsin har varit.",
+      "startingDate": "1/7 -2023"
+    },
+    {
+      "id": "60bf2944e-6a6c-4ea1-93f8-a8d758fbfa1e",
+      "title": "Hunger Games-utvecklare",
+      "length": "2 år",
+      "description": "Hur dåligt du än mår på årets första dag så vill du inte missa chansen att bli den nya Katniss Everdeen i de Sörmländska skogarna. Plocka bär, skjut pilbåge, och överlev i 2 år. Världen kommer att buga för dig.",
+      "startingDate": "1/1 -2024"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "f68507c9-7d3b-490e-bcf9-dd320152226ac0",
+      "firstName": "Bellatrix",
+      "lastName": "Lestrange",
+      "socialSecurityNumber": "19790208-2893",
+      "email": "bella@azkaban.gov",
+      "phoneNumber": "0703294820",
+      "areasOfExpertise": [
+        "Dra elaka skämt",
+        "Rymma från fängelsen",
+        "Tjäna han som inte får nämnas vid namn"
+      ]
+    },
+    {
+      "id": "f685047c9-7d3b-490-bc3f9-dd3015226ac0",
+      "firstName": "Ron",
+      "lastName": "Weasly",
+      "socialSecurityNumber": "19910627-1553",
+      "email": "ron@weasly.com",
+      "phoneNumber": "0732891032",
+      "areasOfExpertise": [
+        "Ha rött hår",
+        "Ha fula tröjor på julen",
+        "Gå bakom Harry Potter"
+      ]
+    },
+    {
+      "id": "f685047sdc9-7d3b-490e-bc3f9-dd3156ac0",
+      "firstName": "Peeta",
+      "lastName": "Mellark",
+      "socialSecurityNumber": "19901218-8459",
+      "email": "peeta@bakery.jam",
+      "phoneNumber": "0707397293",
+      "areasOfExpertise": ["Baka bröd", "Jaga med pilbåge", "Tälja pinnar"]
+    },
+    {
+      "id": "f685047c9-7d3b-4950e-b2c3f9-dd3156ac0",
+      "firstName": "Anakin",
+      "lastName": "Skywalker",
+      "socialSecurityNumber": "19880901-1337",
+      "email": "anakin-the-friendly@hotmail.com",
+      "phoneNumber": "0738927132",
+      "areasOfExpertise": [
+        "Ha snagg med en fläta",
+        "Ragga på prinsessan",
+        "Bli ond"
+      ]
+    }
+  ]
+}
